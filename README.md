@@ -1,8 +1,8 @@
 ~~This is Simple README 
 
-~~ Source Superflux For Supergroups 
+~~ Source Ali Albasrawi For Supergroups 
 
-+~~Developer By : @Mustafaflux On Telegram ,
++~~Developer By : @AliAlbasrawi On Telegram ,
 
 To install on C9 your next steps
 
@@ -54,7 +54,7 @@ Then ask You Number To put him Bot
 
 ----------------------------
 
-For the inauguration #SourceSuperflux 
+For the inauguration #i9 
 
 
 
